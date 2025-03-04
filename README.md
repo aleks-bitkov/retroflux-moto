@@ -5,20 +5,13 @@
 ## Використані технології
 Проєкт реалізовано з використанням таких технологій:
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="30px" height="30px" alt="JavaScript"/>
-&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="30px" height="30px" alt="HTML5"/>
-&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="30px" height="30px" alt="CSS"/>
-&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" width="30px" height="30px" alt="SCSS(SASS)"/>
-&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Webpack.svg" width="80px" height="30px" alt="Webpack"/>
-&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Gulp.js_Logo.svg" width="30px" height="30px" alt="Gulp"/>
-&nbsp;&nbsp;
-<img src="https://www.w3.org/assets/logos/w3c/w3c-bars.svg" width="30px" height="30px" alt="W3C"/>
-&nbsp;&nbsp;
+- ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg) JavaScript
+- ![HTML5](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg) HTML5
+- ![CSS3](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg) CSS3
+- ![SCSS (SASS)](https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg) SCSS (SASS)
+- ![Webpack](https://upload.wikimedia.org/wikipedia/commons/9/94/Webpack.svg) Webpack
+- ![Gulp](https://upload.wikimedia.org/wikipedia/commons/7/72/Gulp.js_Logo.svg) Gulp
+- ![W3C](https://www.w3.org/assets/logos/w3c/w3c-bars.svg) W3C
 
 Верстка виконана відповідно до методології БЕМ, сайт є повністю адаптивним (до розширення 320px) і містить семантичну розмітку. У проєкті використовувалися відносні одиниці вимірювання (rem, %), що забезпечує гнучкість дизайну.
 
