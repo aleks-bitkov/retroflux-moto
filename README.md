@@ -12,7 +12,7 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIFvRDkjhpF1fkRUA0jz86FMxl90Yk0hw_UDmWnWEUuHDYQOCv4i2YJMjo2YD_t9spdzo&usqp=CAU" alt="SCSS (SASS)" width="70" height="50">&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/aleks-bitkov/retroflux-moto/refs/heads/main/img/logo-on-white-bg.jpg" alt="Webpack" width="120" height="50">&nbsp;&nbsp;
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6oh-SqOJXvjUxyFyrhkNBXffAusPr63he1MveGt_9GYqGqX087u7htaRqz5rAi4Modzk&usqp=CAU" alt="Gulp" width="50" height="50">&nbsp;&nbsp;
-  <img src="https://www.w3.org/assets/logos/w3c/w3c-bars.svg" alt="W3C" width="50" height="50">&nbsp;&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLXFmM87TveyGUnvyVNv91MjEkidILFYXzkRKBCuuNxBxsOS6IS78aLyzOaU3VCLIxNgE&usqp=CAU" alt="W3C" width="60" height="50">&nbsp;&nbsp;
 </p>
 Верстка виконана відповідно до методології БЕМ, сайт є повністю адаптивним (до розширення 320px) і містить семантичну розмітку. У проєкті використовувалися відносні одиниці вимірювання (rem, %), що забезпечує гнучкість дизайну.
 
