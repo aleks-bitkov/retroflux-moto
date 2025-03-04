@@ -10,7 +10,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="50" height="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" width="50" height="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="SCSS (SASS)" width="50" height="50">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Webpack.svg" alt="Webpack" width="50" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Webpack.svg" alt="Webpack" width="150" height="80">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Gulp.js_Logo.svg" alt="Gulp" width="50" height="50">
   <img src="https://www.w3.org/assets/logos/w3c/w3c-bars.svg" alt="W3C" width="50" height="50">
 </p>
