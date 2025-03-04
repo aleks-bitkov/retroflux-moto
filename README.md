@@ -8,9 +8,9 @@
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" width="50" height="50">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRqA3txpuYOVX1e-VLStZajJ8OrK6Uvbuy-6LuoMi0NSzr3QwW-19sUhsgqMrtXCAdUfI&usqp=CAU" alt="HTML5" width="50" height="50">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" width="50" height="50">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1UQywHiDcxzsPHAMJUiVp4Co3nMSB2ls3dVa_nO8Mjb1cw8DujFd9nxKH-pX3lvQ_4xw&usqp=CAU" alt="CSS3" width="50" height="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="SCSS (SASS)" width="50" height="50">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Webpack.svg" alt="Webpack" width="150" height="50">
+  <img src="https://raw.githubusercontent.com/webpack/media/master/logo/logo-on-white-bg.png" alt="Webpack" width="150" height="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Gulp.js_Logo.svg" alt="Gulp" width="50" height="50">
   <img src="https://www.w3.org/assets/logos/w3c/w3c-bars.svg" alt="W3C" width="50" height="50">
 </p>
