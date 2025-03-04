@@ -7,7 +7,7 @@
 
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" width="50" height="50">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="50" height="50">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRqA3txpuYOVX1e-VLStZajJ8OrK6Uvbuy-6LuoMi0NSzr3QwW-19sUhsgqMrtXCAdUfI&usqp=CAU" alt="HTML5" width="50" height="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" width="50" height="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="SCSS (SASS)" width="50" height="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Webpack.svg" alt="Webpack" width="150" height="50">
